@@ -1,4 +1,4 @@
-# Projeto-RazorPage-Padaria
+# Websocket in C#
 
 Este projeto, é um simples projeto de websocket desenvolvido utilizando C#, por meio deste você consegue conectar um client e enviar informações
 
